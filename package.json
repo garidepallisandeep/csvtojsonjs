@@ -1,0 +1,14 @@
+{
+  "name": "json-converter",
+  "version": "1.0.0",
+  "description": "Converts CSV sheets into JSON configuration files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kamal Saini",
+  "license": "MIT",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
